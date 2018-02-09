@@ -1,0 +1,4 @@
+---- condition_variable Matches (3 in 2 files) ----
+Buffer.cpp (d:\opencvprojects\statistic\statistic):condition_variable::wait Method
+Buffer.cpp (d:\opencvprojects\statistic\statistic):The first method blocks until the condition_variable object is signaled by a call to notify_one or notify_all. It can also wake up spuriously.
+Buffer.h (d:\opencvprojects\statistic\statistic):	std::condition_variable cond;
